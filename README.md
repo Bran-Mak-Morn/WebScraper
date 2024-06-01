@@ -32,7 +32,7 @@ Scrape data from "notino.co.uk" and transform it into a CSV format.
 
 2. Run the scraper to collect raw data:
     ```sh
-    python main.py
+    python scraper.py
     ```
 
 3. The raw data will be saved to `notino_raw.csv`.
