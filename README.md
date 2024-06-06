@@ -3,7 +3,7 @@ A Python project for scraping website data using Selenium, and transforming it i
 
 ## Overview
 
-Scrape data from "notino.co.uk" and transform it into a CSV format.
+Bot scrapes data from "notino.co.uk" and transforms it into a CSV format.
 
 ## Files
 
@@ -43,6 +43,7 @@ Scrape data from "notino.co.uk" and transform it into a CSV format.
     ```
 
 5. The transformed data will be saved to `notino_transformed.csv`.
+   
 ## Project Highlights
 
 - **Web Scraping**: Demonstrates how to scrape data from dynamically loaded web pages using Selenium.
