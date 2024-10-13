@@ -6,12 +6,13 @@ A Python project for scraping website data using Selenium, and transforming it i
 Bot scrapes data from "notino.co.uk" and transforms it into a CSV format.
 
 ### Technologies
-Python pro backend logiku
+Python & Selenium for backend logic.
+
 
 ### Licence
 This project is under MIT license. Libraries and modules have their own licenses:
-Selenium: Apache License 2.0
-Python: Python Software Foundation License
+- Selenium: Apache License 2.0
+- Python: Python Software Foundation License
 
 ## Files
 
